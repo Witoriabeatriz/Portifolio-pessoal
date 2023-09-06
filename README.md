@@ -15,32 +15,34 @@
 
 * [Autores](#autores)  
 
-# Portifolio Pessoal
-
-![Capa do projeto](imgs/Capa.png)
-
+# 📖Portifolio Pessoal
 Projeto criado para utilizando examplos de Bootstrap para ensino de uso do README e do Bootstrat
 
-## Descrição
+#### 💻 Capa do projeto
+![Capa do projeto](imgs/Capa.png)
+
+
+## 📄 Descrição
 
  
 
-## Introdução
+## ✔️Introdução
 
  
 
-## Funcionalidade
+## 👾 Funcionalidade
 
  
 
- 
 
-## Tecnologias Utilizadas
-
- 
-
-## Fontes Consultadas
+## 🤖 Tecnologias Utilizadas
 
  
 
-## Autores
+## 🔗 Fontes Consultadas
+
+ 
+
+## ✒️ Autores
+
+## 🤝 colaboradores
