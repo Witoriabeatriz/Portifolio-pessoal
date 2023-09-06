@@ -1,4 +1,3 @@
-# Portifolio Pessoal
 
 ## Índicie
  
@@ -16,11 +15,8 @@
 
 [Autores](#autores)  
 
-
-# Projeto escrita do README
-
-[Capa do projeto](img/Capa.png)
-
+# Portifolio Pessoal
+Projeto criado para utilizando examplos de Bootstrap para ensino de uso do README e do Bootstrat
 
 ## Descrição
 
