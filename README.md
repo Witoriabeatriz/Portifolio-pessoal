@@ -1,3 +1,4 @@
+# Portifolio Pessoal
 
 ## Índicie
  
@@ -20,11 +21,6 @@
 
 [Capa do projeto](img/Capa.png)
 
-# Portifolio Pessoal
-
- 
-
- 
 
 ## Descrição
 
