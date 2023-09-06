@@ -16,6 +16,7 @@
 [Autores](#autores)  
 
 # Portifolio Pessoal
+![Capa do projeto](imgs/Capa.png)
 Projeto criado para utilizando examplos de Bootstrap para ensino de uso do README e do Bootstrat
 
 ## Descrição
