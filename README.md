@@ -18,7 +18,7 @@
 
 # Projeto escrita do README
 
-[Capa do projeto](img/Capa.PNG)
+[Capa do projeto](img/Capa.png)
 
 # Portifolio Pessoal
 
