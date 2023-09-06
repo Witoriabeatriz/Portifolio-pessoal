@@ -15,7 +15,7 @@
 
 [Autores](#autores)  
 
- 
+[Capa do projeto](img/Capa.PNG)
 
 # Portifolio Pessoal
 
