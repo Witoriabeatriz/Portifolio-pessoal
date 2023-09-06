@@ -1,19 +1,19 @@
 
 ## Índicie
  
-[Portifolio Pessoal](#portifolio-pessoal)  
+* [Portifolio Pessoal](#portifolio-pessoal)  
 
-[Descrição](#descri%C3%A7%C3%A3o)  
+* [Descrição](#descri%C3%A7%C3%A3o)  
 
-[Introdução](#introdu%C3%A7%C3%A3o)  
+* [Introdução](#introdu%C3%A7%C3%A3o)  
 
-[Funcionalidade](#funcionalidade)  
+* [Funcionalidade](#funcionalidade)  
 
-[Tecnologias Utilizadas](#tecnologias-utilizadas)  
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 
-[Fontes Consultadas](#fontes-consultadas)  
+* [Fontes Consultadas](#fontes-consultadas)  
 
-[Autores](#autores)  
+* [Autores](#autores)  
 
 # Portifolio Pessoal
 ![Capa do projeto](imgs/Capa.png)
